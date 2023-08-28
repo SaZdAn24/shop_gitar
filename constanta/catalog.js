@@ -43,8 +43,8 @@ const CATALOG = [
   },
   {
     id: "el8",
-    name: "FENDER CD-140SCE NAT",
-    img: "imeges/catalog/epiphone_dr145.jpeg",
+    name: "FENDER CD_140SCE NAT",
+    img: "imeges/catalog/epiphone.jpeg",
     price: 650,
   },
   {
